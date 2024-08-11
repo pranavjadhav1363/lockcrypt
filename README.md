@@ -4,7 +4,7 @@
 
 ## Features
 
-- **Symmetric Encryption**: Encrypt and decrypt data using the AES-256-CBC algorithm.
+- **Symmetric Encryption**: Encrypt and decrypt data using the AES-256-CBC algorithm by default.
 - **Asymmetric Encryption**: Encrypt and decrypt data using RSA public/private key pairs.
 - **RSA Key Pair Generation**: Easily generate RSA public/private key pairs with customizable modulus lengths.
 - **Error Handling**: Provides detailed error messages to help you debug encryption/decryption issues.

@@ -1,7 +1,7 @@
 {
   "name": "lockcrypt",
-  "version": "1.0.4",
-  "description": "",
+  "version": "1.0.5",
+  "description": "`lockcrypt` is a powerful Node.js library for encrypting and decrypting data using symmetric and asymmetric encryption algorithms. It provides utility methods for password encryption, public/private key encryption, and RSA key pair generation.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
